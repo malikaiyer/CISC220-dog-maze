@@ -620,7 +620,6 @@ void Board::addTraps() {
 			}
 		}
 		}
-
 }
 
 void Board::addPowerUps(){
